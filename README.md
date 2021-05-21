@@ -107,10 +107,10 @@ This project is the Home of Club Chinois, it’s mainly the reqyest time, ..
 
 ```bash
     # clone the project
-    git clone https://github.com/LonelVino/club-chinois-home.git
+    git clone git@github.com:Club-Chinois/ClubChinois-Home.git
 
     # enter the project directory
-    cd club-chinois-home
+    cd ClubChinois-Home
     
     # 安装依赖
     npm install
